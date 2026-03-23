@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+nltk
+requests
+edge-tts
+graphviz
