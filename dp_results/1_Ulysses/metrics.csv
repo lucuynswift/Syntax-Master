@@ -1,0 +1,9 @@
+﻿metric,value
+total_sentences,24291
+total_words,320487
+total_dependencies,296196
+mean_dependency_distance (MDD),3.3593
+max_dependency_distance (overall),2223
+mean_max_dependency_distance_per_sentence,9.4601
+mean_tree_height,3.7844
+dependency_type_diversity,49

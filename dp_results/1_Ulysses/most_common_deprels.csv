@@ -1,0 +1,11 @@
+﻿rank,deprel,count
+1,punct,50504
+2,case,31181
+3,det,25264
+4,nsubj,23189
+5,amod,15618
+6,obl,14796
+7,advmod,13982
+8,obj,13955
+9,conj,13068
+10,nmod,12211
