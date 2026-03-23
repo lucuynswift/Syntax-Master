@@ -93,11 +93,10 @@ lemmatizer = WordNetLemmatizer()
 # COMBINED_DIR = Path(r"D:\软件\四级词汇比例-频率-缺失率\Modern Library Top 100 Novels_AMAZON_Vocabulary_combined")
 # WORDLISTS_DIR = Path(r"D:\软件\四级词汇比例-频率-缺失率\wordlists")
 
-<<<<<<< HEAD
+
 BASE_DIR = Path(__file__).parent
 USERS_FILE = BASE_DIR / "users.json"
-=======
->>>>>>> a0fdc01060eb37b8d3cb95f3bc3c3d3e7f09ddb3
+
 TEXTS_DIR = BASE_DIR / "data" / "novels"
 DP_RESULTS_DIR = BASE_DIR / "data" / "dp_results"
 SINGLE_DIR = BASE_DIR / "data" / "vocab_single"
@@ -106,12 +105,7 @@ WORDLISTS_DIR = BASE_DIR / "data" / "wordlists"
 
 PROGRESS_FILE = Path("progress.json")
 # Base directory for user-specific data (progress, users, etc.)
-<<<<<<< HEAD
 
-=======
-BASE_DIR = Path(__file__).parent
-USERS_FILE = BASE_DIR / "users.json"
->>>>>>> a0fdc01060eb37b8d3cb95f3bc3c3d3e7f09ddb3
 
 
 # 内置书籍列表（按前缀编号进行数字排序）
