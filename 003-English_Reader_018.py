@@ -97,11 +97,11 @@ lemmatizer = WordNetLemmatizer()
 BASE_DIR = Path(__file__).parent
 USERS_FILE = BASE_DIR / "users.json"
 
-TEXTS_DIR = BASE_DIR / "data" / "novels"
-DP_RESULTS_DIR = BASE_DIR / "data" / "dp_results"
-SINGLE_DIR = BASE_DIR / "data" / "vocab_single"
-COMBINED_DIR = BASE_DIR / "data" / "vocab_combined"
-WORDLISTS_DIR = BASE_DIR / "data" / "wordlists"
+TEXTS_DIR = BASE_DIR /  "novels"
+DP_RESULTS_DIR = BASE_DIR /  "dp_results"
+SINGLE_DIR = BASE_DIR /  "vocab_single"
+COMBINED_DIR = BASE_DIR /  "vocab_combined"
+WORDLISTS_DIR = BASE_DIR /  "wordlists"
 
 PROGRESS_FILE = Path("progress.json")
 # Base directory for user-specific data (progress, users, etc.)
